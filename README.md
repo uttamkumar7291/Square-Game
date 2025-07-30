@@ -1,7 +1,7 @@
 # Square  magical Game
 <b>Hello,
 <br>
-It' me uttam kumar.
+It's me uttam kumar.
 <br>
 I am a Html /css/javascript developer.
 <br>
